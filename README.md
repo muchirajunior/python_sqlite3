@@ -1,0 +1,1 @@
+helps you connect to add a database without using frameworks
